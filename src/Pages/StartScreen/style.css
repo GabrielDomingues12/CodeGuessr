@@ -1,0 +1,8 @@
+.startScreen h1{
+    font-size: 4rem;
+}
+.startScreen p{
+    margin-bottom: 2em;
+    color: rgb(22, 231, 53);
+    font-size: 1.5rem;
+}

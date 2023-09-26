@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica;
+}
+
+body {
+  background: var(--primary-bg-color);
+  color: #cfcfcf;
+  background-color: #343434;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 1.5rem;
+}
+button{
+  background:#088721;
+  padding:0 40px;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  height: 60px;
+  width: 150px;
+  font-size: 1.5rem;
+}
